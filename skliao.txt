@@ -1,0 +1,32 @@
+請大家先fork 此repo 至自己的 github 帳號
+ 至自己的 github 帳號
+ 下載此repo 至自己的電腦
+ 建立一個新的branch 並切換至該 branch
+ 以自己的學號建立一個檔案 Ex: 123456.txt
+ 複製以下內容至該檔案中並填寫
+ 姓名：
+ 學號：
+ 此次測驗使用到哪些指令：
+ 學習到的內容：
+ 建議：
+
+ 提交該次的 commit
+ 切換至master分支並合併
+ 並上傳至自己的repo上
+ 在 github中 提交此次的 pull request
+ 完成
+下載此repo 至自己的電腦
+建立一個新的branch 並切換至該 branch
+以自己的學號建立一個檔案 Ex: 123456.txt
+複製以下內容至該檔案中並填寫
+姓名：
+學號：
+此次測驗使用到哪些指令：
+學習到的內容：
+建議：
+
+提交該次的 commit
+切換至master分支並合併
+並上傳至自己的repo上
+在 github中 提交此次的 pull request
+完成
