@@ -1,0 +1,6 @@
+姓名：李文茜
+學號：1410731017
+此次測驗使用到哪些指令：clone branch checkout add commit push merge 
+學習到的內容：本地git 遠端git
+建議：麥克風的聲音模糊，有時聲音過小，有時過大，會導致聽不清楚。
+
