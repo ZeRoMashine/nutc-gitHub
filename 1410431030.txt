@@ -1,5 +1,5 @@
 姓名：莫舜安
 學號：1410431030
-此次測驗使用到哪些指令：add status clone commit branch init 
+此次測驗使用到哪些指令：add status clone ,commit branch init 
 學習到的內容：如何使用git上傳分享檔案。
 建議：對於新手而言有點偏快。
