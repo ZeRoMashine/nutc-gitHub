@@ -1,0 +1,6 @@
+姓名：劉佩穎
+學號：1410652040
+此次測驗使用到哪些指令：
+git push -u "分支名稱", git clone "URL", git pull, git init, add .
+學習到的內容：學習建立repo remove push clone 
+建議： 因為是沒接觸過的東西 真的有點沒辦法吸收
