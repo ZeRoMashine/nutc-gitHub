@@ -1,0 +1,6 @@
+姓名：吳聲均
+學號：1410731043	
+此次測驗使用到哪些指令：git branch 名稱、git checkout 名稱、git clone 網址、touch 名稱.檔案類型、git add .(all)、
+git commit -m "名稱"、git pull origin 分支名稱
+學習到的內容：學習Git的基本操作，了解Git的運作方式和基本指令，註冊github會員，學習操作遠端存放和下載。
+建議：希望下次還可以學習到深入的指令。
