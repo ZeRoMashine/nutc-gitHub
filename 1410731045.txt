@@ -1,0 +1,4 @@
+﻿姓名：林暐倫
+學號：1410731045
+此次測驗使用到哪些指令：add commit merge push clone branch init
+學習到的內容：git基本架設、遠端.
