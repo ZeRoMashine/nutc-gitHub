@@ -1,0 +1,5 @@
+姓名：林軒誼
+學號：1410631029
+此次測驗使用到哪些指令：remote checkout branch clone add config
+學習到的內容：遠端管理
+建議：上課互動佳  很生動

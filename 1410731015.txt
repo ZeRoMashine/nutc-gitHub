@@ -1,0 +1,5 @@
+姓名:洪菁嬬
+學號:1410731015
+此次測驗使用到哪些指令:branch vim commit checkout pull merge
+學習到的內容:學習到如何使用Git
+建議:無  
